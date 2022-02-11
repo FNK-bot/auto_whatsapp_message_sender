@@ -1,5 +1,5 @@
 This is a python program for sending text message
-In WhatsApp or any other messages
+In WhatsApp or any other messagers
 ---------------------------------------------------
 It can use as whatsapp bomb also 🤠
 
