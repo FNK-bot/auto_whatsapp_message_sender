@@ -19,7 +19,7 @@ Install python3
 Clone the repository (this repo)
 Chmode +x ams_fnk.py
 Pip3 install Pyautogui
-Pip3 install pyfiflet
+Pip3 install pyfiglet
 
  After installing
 Run :-
