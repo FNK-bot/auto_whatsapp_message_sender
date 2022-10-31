@@ -1,6 +1,7 @@
 import pyautogui as pg
 import pyfiglet
 import time
+import pandas as pd
 
 result = pyfiglet.figlet_format(" Auto messsage sender by  FNK ")
 
